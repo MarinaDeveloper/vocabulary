@@ -1,0 +1,93 @@
+body {
+    border-color: #E5E5E5;
+    padding-left: 132px;
+    padding-top: 115px;
+}
+
+h1 {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    color: black;
+    margin: 0;
+    margin-bottom: 70px;
+}
+
+.inputs-block {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 60px;
+}
+
+.inputs-item {
+    margin-right: 40px;
+    max-width: 255px;
+}
+
+.imputs-item-title {
+    margin-bottom: 30px;
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+input {
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    border: none;
+    height: 56px;
+    border-radius: 4px;
+    font-family: Montserrat;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.7);
+    padding-left: 18px;
+    width: 100%;
+}
+
+#add-word-btn {
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    border: none;
+    height: 56px;
+    border-radius: 4px;
+    font-family: Montserrat;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.7);
+    width: 141px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+#add-word-btn:hover {
+    background: rgba(255, 255, 255, 0.447);
+}
+
+h2{
+    margin: 0;
+    margin-bottom: 60px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+table {
+    width: 300px;
+}
+
+.table-block {
+    position: relative;
+}
+
+.btn-delete {
+    b
+}
